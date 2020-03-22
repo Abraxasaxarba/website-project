@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    
+}
+
+h1, h2{
+    font-family: 'Caveat Brush', cursive;
+}
+
+header{
+    background-color: rgb(122, 71, 111);
+    text-align: center;
+}
+
+header h1{
+    color: white;
+    font-size: 50px;
+}
+
+header img{
+    /* aligns image to centre */
+    display: block;
+    margin: 0 auto;
+    /* end of image align */
+    border-radius: 500px;
+    width: 320px;
+    border: 30px solid rgb(79, 131, 165);
+    padding: auto;
+}
+
+main{
+    max-width: 800px;
+}
+
+main img{
+    max-width: 100%;
+}
