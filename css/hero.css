@@ -1,9 +1,10 @@
 body{
     margin: 0px;
-    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Caveat Brush', sans-serif;
     font-size:20px;
     line-height: 30px;
-    background-color: #F9D5FF; 
+    background-color: #F9D5FF;
+    color: #393C54; 
 }
 
 h1, h2{
