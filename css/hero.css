@@ -29,14 +29,10 @@ header h1{
 }
 
 header img{
-    /* aligns image to centre */
-    display: block;
-    margin: 0 auto;
-    /* end of image align */
+    margin-top: 50px;
     border-radius: 500px;
     width: 320px;
     border: 30px solid rgb(79, 131, 165);
-    padding: auto;
 }
 
 main{
